@@ -12,3 +12,5 @@
 // localStorage.setItem('age', '26');
 // localStorage.setItem('country', 'USA');
 
+
+//Get saved data from localStorage
